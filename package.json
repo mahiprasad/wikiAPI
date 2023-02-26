@@ -1,0 +1,17 @@
+{
+  "name": "wiki-api",
+  "version": "1.0.0",
+  "description": "RESTful API project",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Mahi Prasad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3"
+  }
+}
